@@ -28,7 +28,7 @@ This is a template for generating Whatsapp bots which are immediately deployable
 5. Go to the **Settings > Reveal Config Vars**, and add the following variables:
 ```text
 TOKEN: <your temporary access token or permanent token from Whatsapp/Getting Started>
-PHONE: <your phone number ID from Whatsapp/Getting Started>
+PHONE: <your phone number-263777202290 ID from Whatsapp/Getting Started>
 APP_SECRET: <any random string (no numbers) which you will also add to Meta Webhooks>
 ```
 6. When you have finished, click **Open app**. You'll be sent to a website which says **"Hello, It Works"**
